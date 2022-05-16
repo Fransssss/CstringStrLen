@@ -1,0 +1,18 @@
+# ninja log v5
+0	146	6743838612933579	CMakeFiles/CstringStrLen.dir/main.cpp.obj	ad7b83e89bcb46ae
+1	268	6743839065601914	CMakeFiles/CstringStrLen.dir/main.cpp.obj	ad7b83e89bcb46ae
+269	664	6743839069338459	CstringStrLen.exe	f8cc94bd14be9e42
+1	596	6743843906906072	CMakeFiles/CstringStrLen.dir/main.cpp.obj	ad7b83e89bcb46ae
+598	1000	6743843910909747	CstringStrLen.exe	f8cc94bd14be9e42
+3	365	6743844525793137	CMakeFiles/CstringStrLen.dir/main.cpp.obj	ad7b83e89bcb46ae
+365	501	6743844527193823	CstringStrLen.exe	f8cc94bd14be9e42
+4	394	6743844739484078	CMakeFiles/CstringStrLen.dir/main.cpp.obj	ad7b83e89bcb46ae
+395	524	6743844740738688	CstringStrLen.exe	f8cc94bd14be9e42
+5	567	6743844906474288	CMakeFiles/CstringStrLen.dir/main.cpp.obj	ad7b83e89bcb46ae
+568	784	6743844908495800	CstringStrLen.exe	f8cc94bd14be9e42
+5	445	6743845246484337	CMakeFiles/CstringStrLen.dir/main.cpp.obj	ad7b83e89bcb46ae
+446	595	6743845247962313	CstringStrLen.exe	f8cc94bd14be9e42
+3	377	6743845434689127	CMakeFiles/CstringStrLen.dir/main.cpp.obj	ad7b83e89bcb46ae
+378	529	6743845436194525	CstringStrLen.exe	f8cc94bd14be9e42
+5	607	6743847005437159	CMakeFiles/CstringStrLen.dir/main.cpp.obj	ad7b83e89bcb46ae
+608	878	6743847008187493	CstringStrLen.exe	f8cc94bd14be9e42
